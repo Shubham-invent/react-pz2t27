@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+#map {
+  height: 100%;
+  position:static !important;
+  overflow: visible !important;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
